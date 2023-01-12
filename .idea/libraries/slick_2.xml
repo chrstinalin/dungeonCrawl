@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="slick-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/jnlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/slick-examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/ibxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/tinylinepp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/natives-mac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-2/jinput.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
